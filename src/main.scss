@@ -1,0 +1,13 @@
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+body {
+    background-image: url('/src/react_avance/Redux/Exo2/chance-cubes-dice-gambling.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
